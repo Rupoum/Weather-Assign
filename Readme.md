@@ -31,7 +31,9 @@ A beautiful, responsive weather dashboard built with Next.js that allows users t
 
 ## Api
 
--**Rate Limit**:Once you subscribe to One call API 3.0, 2000 API calls per day to this product are set up by default. -**Key**:10aacc1e1487c13fd5abc6b787d6ee98
+-**Rate Limit**:Once you subscribe to One call API 3.0, 2000 API calls per day to this product are set up by default.
+
+-**Key**:10aacc1e1487c13fd5abc6b787d6ee98
 
 ## 📋 Prerequisites
 
